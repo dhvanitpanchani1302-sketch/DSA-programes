@@ -21,7 +21,7 @@ int main(){
             arr[i] = temp;
         }
     }
-    printf("the sorted arr is");
+    printf("the sorted arr is :");
     for(int i = 0; i < n-1; i++){
         printf("%d,",arr[i]);
     }
